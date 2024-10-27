@@ -62,3 +62,9 @@
     cursor:pointer;
     background-position:calc(100%-10px);
 }
+#result{
+    font-size:20px;
+}
+#result span{
+    color:#ffff76;
+}
